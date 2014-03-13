@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>一沙一世界</title>
+ <link href="http://www.sharipu.net/atom.xml" rel="self"/>
+ <link href="http://www.sharipu.net"/>
+ <updated>2014-03-13T15:21:31+08:00</updated>
+ <id>http://www.sharipu.net</id>
+ <author>
+   <name>Sharipu</name>
+ </author>
+
+ 
+ 
+</feed>
