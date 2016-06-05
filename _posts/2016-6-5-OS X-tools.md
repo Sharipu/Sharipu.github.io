@@ -13,15 +13,11 @@ description: some tools
 # 一、常用系统工具
 ## Alfred
 毋庸置疑，Mac 系统自带的 Spotlight 已经够好了，但 Alfred 功能更强大，有更多个性化的定制功能，尤其是在自定义搜索方面。此外还适用Workflow，例如我安装了一个豆瓣的 Workflow，可以在 Alfred 里直接搜索书籍、电影、音乐等，会跳出相应豆瓣地址。用好这款实用效率工具，足以让 Mac 使用和操作如虎添翼。
-<center>
 ![](http://7xv35h.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-05%2013.56.38.png)  
-</center>
 
 ## Popclip
 Popclip 是我用 Mac 以来功能借助最频繁的一款小软件，简易高效，具有强大的扩展功能，各类实用插件颇多，安装后能在各方面极大提高操作体验。我最常用的是拷贝、剪切、粘贴和搜索功能，下图是我常用的拓展功能列表：
-<center>  
 ![](http://7xv35h.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-05%2014.18.28.png)  
-</center>
 
 ## BetterTouchTool
 BetterTouchTool 是一款手势增强的效率工具，可以在触控板上设置自定义手势，极大发挥出 Mac 的强大手势功能，对日常操作效率有不可言喻的提升。这款手势工具我一直使用，已成为自己不可或缺的 Mac 工具，今年该软件开始收费，我也第一时间付费支持了。
@@ -31,9 +27,7 @@ Moom 是一款窗口控制工具，自定义窗口管理，可以快速修改当
 
 ## Manico
 Manico 是一款功能很简单而纯粹的 启动和切换 App 的工具。按住 option 键和相应 App 的数字序号，可以快速打开或切换至该 App ，通过键盘输入快捷启动 App ，堪为第三方的 Dock 栏。
-<center>  
 ![](http://7xv35h.com1.z0.glb.clouddn.com/Snip20160605_2.png)  
-</center>
 
 ## CheetSheet
 CheetSheet 是一款快捷键快速提示工具，只需按住 Command 键，就能以列表形式弹出当前页面或应用的所有可用快捷键。功能纯粹，小巧实用。
