@@ -1,11 +1,11 @@
 markdown: kramdown
-pygments: true
+pygments: rouge
 permalink: /:year/:month/:day/:title.html
 name: "一沙一世界"
 markdown: rdiscount
 
 author: "Sharipu"
-atom-baseurl: "http://www.sharipu.net"
+atom-baseurl: "http://sharipu.github.io"
 disqus: "gopherwood"
 
 navigations:
